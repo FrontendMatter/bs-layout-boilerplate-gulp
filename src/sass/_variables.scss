@@ -4,5 +4,8 @@
 // Customize any variables here, before loading the default variables
 $brand-primary: $deep-purple-400;
 
+// Bootstrap Layout Scrollable Variables
+@import 'bootstrap-layout-scrollable/src/sass/variables';
+
 // Bootstrap Layout Variables
 @import 'bootstrap-layout/src/sass/variables';

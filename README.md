@@ -1,13 +1,13 @@
-# Bootstrap Layout Gulp Boilerplate
-Simple Gulp setup and minimal boilerplate for [Bootstrap Layout](http://bootstrap-layout.themekit.io).
+# Bootstrap Layout gulp boilerplate
+Simple gulp setup and minimal boilerplate for [Bootstrap Layout](http://bootstrap-layout.themekit.io).
 
 ### Demo
 > You can [see a working live demo](http://bs-layout-boilerplate-gulp.themekit.io) of this boilerplate.
 
 ### Features
-* simple gulp workflow
-* compile Sass using gulp-sass (gulp wrapper for node-sass)
-* import Sass files directly from node_modules using sass-importer-npm
+* simple [gulp](https://github.com/gulpjs/gulp) workflow
+* compile Sass using [gulp-sass](https://github.com/dlmanning/gulp-sass) (gulp wrapper for [node-sass](https://github.com/sass/node-sass))
+* import Sass files directly from node_modules using [sass-importer-npm](https://github.com/themekit/sass-importer-npm)
 * example of customizing colors
 
 ### Advanced boilerplate

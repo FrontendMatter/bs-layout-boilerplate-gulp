@@ -11,8 +11,11 @@ gulp.task('sass', function () {
 gulp.task('copy-vendor', function () {
 	return gulp.src([
 		'bootstrap-layout/dist/bootstrap-layout.js',
+		'bootstrap-layout-scrollable/dist/bootstrap-layout-scrollable.js',
 		'bootstrap/dist/js/bootstrap.min.js',
 		'jquery/dist/jquery.min.js',
+		'simplebar/dist/simplebar.min.js',
+		'simplebar/dist/simplebar.css',
 		'tether/dist/js/tether.min.js',
 	], {
 		cwd: 'node_modules'
